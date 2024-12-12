@@ -32,6 +32,24 @@
             //}
             #endregion
 
+            #region 3 - Write a program that takes 3 integers from the user then prints the max element and the min element
+            //Console.Write("enter  first integer: ");
+            //int num1 = int.Parse(Console.ReadLine());
+
+            //Console.Write("enter secound integer : ");
+            //int num2 = int.Parse(Console.ReadLine());
+
+            //Console.Write("enter third integer: ");
+            //int num3 = int.Parse(Console.ReadLine());
+
+            //int max = Math.Max(num1, Math.Max(num2, num3));
+            //int min = Math.Min(num1, Math.Min(num2, num3));
+
+            //Console.WriteLine("Max element = " + max);
+            //Console.WriteLine("Min element = " + min);
+            #endregion
+
+
         }
     }
 }
