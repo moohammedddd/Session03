@@ -49,6 +49,20 @@
             //Console.WriteLine("Min element = " + min);
             #endregion
 
+            #region 4- - Write a program that allows the user to insert an integer number then check If a number is even or odd
+            //Console.Write("Enter an integer: ");
+            //int number = int.Parse(Console.ReadLine());
+
+            //if (number % 2 == 0)
+            //{
+            //    Console.WriteLine("The number is even.");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("The number is odd.");
+
+            #endregion
+
 
         }
     }
