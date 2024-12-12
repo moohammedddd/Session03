@@ -197,6 +197,48 @@
             //Console.WriteLine("Days in Month: " + days);
             #endregion
 
+            #region  12- Write a program to create a Simple Calculator.
+            //Console.WriteLine("Simple Calculator");
+            //Console.Write("Enter the first number: ");
+            //double num1 = double.Parse(Console.ReadLine());
+
+            //Console.Write("Enter an operator (+, -, *, /): ");
+            //char op = char.Parse(Console.ReadLine());
+
+            //Console.Write("Enter the second number: ");
+            //double num2 = double.Parse(Console.ReadLine());
+
+            //double result = 0;
+
+            //switch (op)
+            //{
+            //    case '+':
+            //        result = num1 + num2;
+            //        break;
+            //    case '-':
+            //        result = num1 - num2;
+            //        break;
+            //    case '*':
+            //        result = num1 * num2;
+            //        break;
+            //    case '/':
+            //        if (num2 != 0)
+            //        {
+            //            result = num1 / num2;
+            //        }
+            //        else
+            //        {
+            //            Console.WriteLine("Error: Division by zero is not allowed.");
+            //            return;
+            //        }
+            //        break;
+            //    default:
+            //        Console.WriteLine("Invalid operator.");
+            //        return;
+            //}
+
+            //Console.WriteLine("Result: " + result);
+            #endregion
         }
     }
 }
