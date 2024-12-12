@@ -77,6 +77,18 @@
             //}
             #endregion
 
+
+
+            #region 6- Write a program that allows the user to insert an integer then print all numbers between 1 to that number
+            //Console.Write("Enter an integer: ");
+            //int number = int.Parse(Console.ReadLine());
+
+            //for (int i = 1; i <= number; i++)
+            //{
+            //    Console.WriteLine(i);
+            //}
+            #endregion
+
         }
     }
 }
