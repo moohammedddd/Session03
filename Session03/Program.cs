@@ -112,6 +112,23 @@
             //}
             #endregion
 
+
+
+            #region -9  Write a program that takes two integers then prints the power.
+            //Console.Write("Enter the base number: ");
+            //int baseNumber = int.Parse(Console.ReadLine());
+
+            //Console.Write("Enter the exponent: ");
+            //int exponent = int.Parse(Console.ReadLine());
+
+            //int result = 1;
+            //for (int i = 0; i < exponent; i++)
+            //{
+            //    result *= baseNumber;
+            //}
+
+            //Console.WriteLine("Result: " + result);
+            #endregion
         }
     }
 }
